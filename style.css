@@ -1,0 +1,32 @@
+body{
+	border: solid;
+	border-color: white;
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 2%;
+	padding: 2%;
+	background-image: url("newyork.jpg");
+}
+
+img{
+	padding-left: 5%;
+}
+
+header{
+	color: white;
+	text-align: center;
+}
+
+header h1{
+	font-family: "forte";
+	font-size: 28px;
+}
+
+p{
+	font-family: "Comic Sans MS";
+	text-align: justify;
+	font-size: 18px;
+	color: white;
+}
+
+
